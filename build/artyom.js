@@ -34,7 +34,7 @@ var Artyom = (function () {
             "pt-BR": ["Google português do Brasil", "pt-PT", "pt-BR", "pt_PT", "pt_BR"],
             // Portugal Portuguese
             // Note: in desktop, there's no voice for portugal Portuguese
-            "pt-PT": ["Google português do Brasil", "pt-PT", "pt_PT"],
+            "pt-PT": ["Google português de Portugal", "pt-PT", "pt_PT"],
             // Russian
             "ru-RU": ["Google русский", "ru-RU", "ru_RU"],
             // Dutch (holland)
